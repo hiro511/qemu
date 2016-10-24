@@ -24,10 +24,10 @@
 	url = git://git.qemu-project.org/sgabios.git
 [submodule "pixman"]
 	path = pixman
-	url = git://anongit.freedesktop.org/pixman
+	url = https://anongit.freedesktop.org/git/pixman.git 
 [submodule "dtc"]
 	path = dtc
-	url = git://git.qemu-project.org/dtc.git
+	url = https://kernel.googlesource.com/pub/scm/utils/dtc/dtc.git 
 [submodule "roms/u-boot"]
 	path = roms/u-boot
 	url = git://git.qemu-project.org/u-boot.git
